@@ -1,6 +1,4 @@
-<div align="center">
-  <img src"https://github.com/mattwsheps/mattwsheps/assets/86877770/8c04e1cd-34b1-4c85-9fba-6d900062cc33" />
-</div>
+![aa309b2595a2505e-sticker](https://github.com/mattwsheps/mattwsheps/assets/86877770/aeba49e6-e04d-4978-93a2-2ba1d7fe12b8)
 
 <div align="center">
   <h1>
