@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="matt-sticker.svg"/>
+  <img src="matt-sticker.svg" width="50px"/>
 </div>
 
 
@@ -13,7 +13,7 @@
 ## About Me
 
 - 👨🏼‍💻 I am a student at Makers Academy, hoping to become a Full-Stack Software Developer.
-- 👨🏼‍🎓 I am a recent graduate of the University of Bath, with a First Class Master's in Integrated Mechanical and Electrical Engineering.
+- 👨🏼‍🎓 I am a recent University of Bath graduate, with a First Class Master's in Integrated Mechanical and Electrical Engineering.
 - 🔭 I am currently searching for Junior Software Developer roles.
 - ⛷️ I am a passionate skier, having recently completed a ski season in Tignes, FR.
 
