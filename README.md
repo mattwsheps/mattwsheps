@@ -47,7 +47,7 @@
 
 ---
 
-## 👇 Take a look at some of my recent projects 👇
+#### 👇 Take a look at some of my recent projects 👇
 
 <!--
 **mattwsheps/mattwsheps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
