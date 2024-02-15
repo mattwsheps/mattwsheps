@@ -1,7 +1,5 @@
 <div style="text-align: center;">
-
-  ![aa309b2595a2505e-sticker 1](https://github.com/mattwsheps/mattwsheps/assets/86877770/96141d21-1f98-467e-87ca-bfaff128cf40)
-
+![aa309b2595a2505e-sticker 1](https://github.com/mattwsheps/mattwsheps/assets/86877770/8d6a929b-d310-4238-9ca8-cd8641e9ce19)
 </div>
 
 
