@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-![aa309b2595a2505e-sticker 1](https://github.com/mattwsheps/mattwsheps/assets/86877770/8d6a929b-d310-4238-9ca8-cd8641e9ce19)
+<div align="center">
+  <img src="matt-sticker.svg"/>
 </div>
 
 
