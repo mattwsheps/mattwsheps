@@ -15,7 +15,7 @@
 [GitHub CV](https://github.com/mattwsheps/CV) 👈 Click here!
 
 <details>
-  <summary>## :hammer_and_wrench: Languages and Tools Used:</summary>
+  <summary>:hammer_and_wrench: Languages and Tools Used:</summary>
 
   ### MERN Web App Projects:
 
