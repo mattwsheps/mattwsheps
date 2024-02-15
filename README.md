@@ -1,5 +1,3 @@
-![aa309b2595a2505e-sticker](https://github.com/mattwsheps/mattwsheps/assets/86877770/aeba49e6-e04d-4978-93a2-2ba1d7fe12b8)
-
 <div align="center">
   <h1>
     Hi there, I'm Matt!
