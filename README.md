@@ -1,4 +1,8 @@
 <div align="center">
+  ![aa309b2595a2505e-sticker](https://github.com/mattwsheps/mattwsheps/assets/86877770/8c04e1cd-34b1-4c85-9fba-6d900062cc33)
+</div>
+
+<div align="center">
   <h1>
     Hi there, I'm Matt!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
