@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="matt-sticker.svg" width="50px"/>
+  <img src="matt-sticker.svg" width="200px"/>
 </div>
 
 
