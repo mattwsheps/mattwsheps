@@ -1,3 +1,10 @@
+<div style="text-align: center;">
+
+  ![aa309b2595a2505e-sticker 1](https://github.com/mattwsheps/mattwsheps/assets/86877770/96141d21-1f98-467e-87ca-bfaff128cf40)
+
+</div>
+
+
 <div align="center">
   <h1>
     Hi there, I'm Matt!
