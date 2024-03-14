@@ -10,6 +10,12 @@
   </h1>
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mattwsheps/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
 ## About Me
 
 - 👨🏼‍💻 I am a student at Makers Academy, hoping to become a Full-Stack Software Developer.
