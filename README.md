@@ -57,8 +57,6 @@
 </details>
 
 ---
-[![Matt's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mattwsheps\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Matt's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mattwsheps\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 👇 Take a look at some of my recent projects 👇
 
