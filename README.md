@@ -18,9 +18,8 @@
 
 ## About Me
 
-- 👨🏼‍💻 I am a student at Makers Academy, hoping to become a Full-Stack Software Developer.
+- 👨🏼‍💻 I am a recent student at Makers Academy, having completed their 16-week software development bootcamp.
 - 👨🏼‍🎓 I am a recent University of Bath graduate, with a First Class Master's in Integrated Mechanical and Electrical Engineering.
-- 🔭 I am currently searching for Junior Software Developer roles.
 - ⛷️ I am a passionate skier, having recently completed a ski season in Tignes, FR.
 
 [GitHub CV](https://github.com/mattwsheps/CV) 👈 Click here!
